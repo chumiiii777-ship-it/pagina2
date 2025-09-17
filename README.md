@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>	UN HOMBREQUE CAMBIO AL MUNDO </TITLE>
 </HEAD>
-<body background="https://tse1.mm.bing.net/th/id/OIP.b8zYc4WkrxXEUXTZaiGkSAHaHa?r=0&pid=ImgDet&w=207&h=207&c=7&o=7&rm=3">
+<BODY background="https://tse1.mm.bing.net/th/id/OIP.b8zYc4WkrxXEUXTZaiGkSAHaHa?r=0&pid=ImgDet&w=207&h=207&c=7&o=7&rm=3">
     <center>
     <h1 style="color:red">	UN HOMBREQUE CAMBIO AL MUNDO </h1>
 <img src="https://th.bing.com/th/id/OIP.7tMhLvCbq8SW6sw0OUMbKQHaEk?w=301&h=186&c=7&r=0&o=7&pid=1.7&rm=3" widht="500"  height="500" style="border: 5px solid blue">
@@ -16,5 +16,5 @@
 <br>
 </ul>
 <p><b>NOMBRE</b> : Michell Dayana Badillo Salazar</p>
-</body>
-</html>
+</BODY>
+</HTML>
